@@ -47,7 +47,7 @@ The dataset contains information related to:
 - Tracks sales trends over multiple years for better decision-making.
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here after uploading it to the repository.)*
+![SN Corp Sales Dashboard](dashboard.png)
 
 ## 📁 Repository Contents
 - `SN_Corp_Dashboard.pbix` – Power BI Dashboard
